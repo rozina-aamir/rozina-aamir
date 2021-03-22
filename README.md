@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<!--
-**rozina-aamir/rozina-aamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **rozina-aamir/rozina-aamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-🔭 I’m currently working on my own portfolio site from scratch.
+✨ I've already built my portfolio site from scratch, but I'll continue to update it periodically.
+
+🔭 I’m currently creating some net.art pieces and NFTs.
 
 🌱 I’m currently learning HTML, CSS, and Processing.
 
