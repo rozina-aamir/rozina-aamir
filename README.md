@@ -2,11 +2,11 @@
 
 <!-- **rozina-aamir/rozina-aamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-✨ I've already built my portfolio site from scratch, but I'll continue to update it periodically.
+✨ I've built my portfolio site from scratch, but I'll continue to update it periodically.
 
-🔭 I’m currently creating some net.art pieces and NFTs.
+🔭 I’m currently creating some net.art pieces.
 
-🌱 I’m currently learning HTML, CSS, and Processing.
+🌱 I’m currently learning Processing and A-Frame Web VR.
 
 👯 I’m looking to collaborate on anything creative and interesting, so hit me up.
 
@@ -16,6 +16,6 @@
 
 <!-- - 📫 How to reach me: -->
 
-😄 Skills: HTML, CSS, Processing, Graphic Design, Typography, Web Design, Illustration, Copywriting.
+😄 Skills: HTML, CSS, Processing.
 
-⚡ Learn Next: Javascript, P5.js, A-Frame Web VR.
+⚡ Learn Next: Javascript, P5.js.
