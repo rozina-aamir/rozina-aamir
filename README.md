@@ -1,21 +1,21 @@
-### Hi there 👋
+### hi there 👋😎
 
 <!-- **rozina-aamir/rozina-aamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-✨ I've built my portfolio site from scratch, but I'll continue to update it periodically.
+✨ i've built my portfolio site from scratch, and i've created some *interesting* pieces to go with it.
 
-🔭 I’m currently creating some net.art pieces.
+🔭 i’m planning on creating an experimental web design studio agency kinda thing (and i'm kinda getting there with it).
 
-🌱 I’m currently learning Processing and A-Frame Web VR.
+🌱 i’m currently learning Processing, Javascript and A-Frame Web VR, as well trying to make interesting websites
 
-👯 I’m looking to collaborate on anything creative and interesting, so hit me up.
+👯 i’m looking to collaborate on anything creative and interesting, so contact me and let's collab!
 
-🤔 I’m looking for help with creative coding, generative art, experimental web design, and front end web development.
+🤔 i’m looking for help with creative coding, generative art, experimental web design, and front end web development.
 
-💬 Ask me about how you can use technology in a creative way (I'm still learning, but I'll get there in the end).
+💬 ask me about how you can use technology in a creative way (i'm still learning, but i'll get there in the end).
 
 <!-- - 📫 How to reach me: -->
 
-😄 Skills: HTML, CSS, Processing.
+😄 skills: HTML, CSS, Processing, Javascript (beta)
 
-⚡ Learn Next: Javascript, P5.js.
+⚡ learn next: more Javascript, P5.js, three.js
