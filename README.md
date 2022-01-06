@@ -2,9 +2,9 @@
 
 <!-- **rozina-aamir/rozina-aamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-✨ i've built my portfolio site from scratch, and i've created some *interesting* pieces to go with it.
+✨ i've built my portfolio site from scratch, and i've created some pieces to go with it.
 
-🔭 i’m planning on creating an experimental web design studio agency kinda thing (and i'm kinda getting there with it).
+🔭 i’m creating an experimental web design studio agency kinda thing (and i'm kinda getting there with it).
 
 🌱 i’m currently learning Processing, Javascript and A-Frame Web VR, as well trying to make interesting websites
 
