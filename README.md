@@ -19,3 +19,5 @@
 😄 skills: HTML, CSS, Processing, Javascript (beta)
 
 ⚡ learn next: more Javascript, P5.js, three.js
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L1APJPC)
