@@ -10,6 +10,8 @@ On top of that, I'm a self-taught front end web developer that specialises in HT
 
 Additionally, I enjoy creative coding and anything else that exists at the intersection of art and technology, so in my spare time, I curate and maintain the [Digital Art Database](https://digitalartdatabase.org/), which gets all of those things into one place.
 
+At the moment, I'm currently updating and improving my personal website.
+
 My technical skills are as follows:
 
 + Software Design
