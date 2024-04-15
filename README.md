@@ -1,23 +1,40 @@
-### hi there 👋😎
-
 <!-- **rozina-aamir/rozina-aamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-✨ i've built my portfolio site from scratch, and i've created some pieces to go with it.
+**Howdy**
 
-🔭 i’m creating an experimental web design studio agency kinda thing (and i'm kinda getting there with it).
+I'm a diligent and dynamic UI Designer with over 3 years of total experience within the Graphic Design industry, and a significant amount of experience in working within an agile and collaborative startup environment.
 
-🌱 i’m currently learning Processing, Javascript and A-Frame Web VR, as well trying to make interesting websites
+I am also a highly organised, resourceful, and punctual individual who can work effectively in a team setting, as well as being keen to take on new and exciting challenges within my career.
 
-👯 i’m looking to collaborate on anything creative and interesting, so contact me and let's collab!
+On top of that, I'm a self-taught front end web developer that specialises in HTML, CSS, and JavaScript.
 
-🤔 i’m looking for help with creative coding, generative art, experimental web design, and front end web development.
+Additionally, I enjoy creative coding and anything else that exists at the intersection of art and technology, so in my spare time, I curate and maintain the Digital Art Database, which gets all of those things into one place.
 
-💬 ask me about how you can use technology in a creative way (i'm still learning, but i'll get there in the end).
+My technical skills are as follows:
 
-<!-- - 📫 How to reach me: -->
++ Software Design
++ Design Thinking
++ Interaction Design
++ Navigation Design
++ Responsive Web Design
++ Usability Testing
++ UI/UX Design
++ HTML
++ CSS
++ Javascript
++ Processing
++ A-Frame VR
++ Lua
++ Prompt Engineering
++ Blockchain
++ Crypto
++ AI
++ Cybersecurity
++ Open Source
++ Linux
++ The Command Line (specifically BASH)
++ Git
++ GitHub
++ IT
 
-😄 skills: HTML, CSS, Processing, Javascript (beta)
-
-⚡ learn next: more Javascript, P5.js, three.js
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L1APJPC)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rozina-aamir)
