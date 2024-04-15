@@ -8,7 +8,7 @@ I am also a highly organised, resourceful, and punctual individual who can work 
 
 On top of that, I'm a self-taught front end web developer that specialises in HTML, CSS, and JavaScript.
 
-Additionally, I enjoy creative coding and anything else that exists at the intersection of art and technology, so in my spare time, I curate and maintain the Digital Art Database, which gets all of those things into one place.
+Additionally, I enjoy creative coding and anything else that exists at the intersection of art and technology, so in my spare time, I curate and maintain the [Digital Art Database](https://digitalartdatabase.org/), which gets all of those things into one place.
 
 My technical skills are as follows:
 
